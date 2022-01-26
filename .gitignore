@@ -1,0 +1,6 @@
+seen-tech-rtx
+*.exe
+Resources/*
+.vscode/*
+.idea/*
+/node_modules
